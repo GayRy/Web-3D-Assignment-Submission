@@ -2,7 +2,7 @@
 This is the web 3D submission of 246738 student in Sussex University in 2023
 
 # gary_app_h5
-https://users.sussex.ac.uk/~kh503/3dapp/assignment/gary_app_h5-main/index.html
+https://users.sussex.ac.uk/~kh503/3dapp/assignment/gary_app_h5/index.html
 # threejs
 Using Threejs way to input the gltf model and the animation model
 - The pros of Threejs
